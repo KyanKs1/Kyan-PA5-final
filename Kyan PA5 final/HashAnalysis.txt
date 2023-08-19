@@ -1,0 +1,9 @@
+
+Chaning table
+Time taken to insert 1,000,000 values to ChainingHash table: 13.233 seconds.
+time taken to search for 117 : 0  : Value : 177
+time taken to search for 20000 : 0  : Value : 20000
+time taken to delete 117 : 0
+TableSize : 51437
+BucketCount: 51437
+LoadFactor: 0.583218
